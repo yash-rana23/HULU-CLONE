@@ -1,0 +1,107 @@
+
+#upper{
+  background-image: url('assets/images/header.jpg');
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  
+  }
+  .iiu{
+      font-weight: 100;
+  }
+  .bigger{
+    font-weight: 800;
+    font-size:25px;
+  }
+  #bundle{
+  background-color:  rgba(4,4,4,0.45);
+  border-color: #ffffff;
+  border-width: 2.5px;
+  }
+  #bundle:hover{
+  border-color:gray;
+  transition: 0;
+  }
+  .free:hover{
+  background-color: #cccccc;
+  }
+  
+  
+  
+  
+  .img-gradient {
+  
+    position:absolute;
+  
+  
+    width:20%;
+    height:60%;
+    background: linear-gradient(
+  156.82deg, rgba(0,0,0,0.3) 3.58%, rgba(0,0,0,0) 60.61%),linear-gradient(
+  24.5deg, rgba(0,0,0,0.2) 3.71%, rgba(0,0,0,0) 60.49%); 
+  
+  }
+  .cards{
+    color:white;
+    position: absolute;
+     
+      
+     
+   
+  
+  
+  }
+  .belower{
+    padding-top: 90px;
+    padding-bottom: 80px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  .greenbox{
+    border: 4px solid #00ed82;
+    border-radius: 20px;
+  }
+  
+  
+    .livesports{
+    background: url('assets/images/live-sports.jpg');
+    z-index: -1;
+   background-size:cover;
+   background-position: top center;
+       background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  
+  } 
+  @media only screen and (min-width: 300px) and (max-width: 779px){
+  .livesports{
+     
+     
+     
+    
+   }
+  
+  }
+    
+   .sportslogo{
+  
+       
+   background: url('assets/images/network-logo-bg.png')  center  no-repeat;
+   height:fit-content;
+       
+   background-size: contain;
+   }
+   #rower{
+     block-size: fit-content;
+   height:110px;
+     
+     
+     }
+     .gh{
+       color:black;
+       text-decoration: none;
+     }
+  
+  
+  
+  
